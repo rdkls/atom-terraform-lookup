@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle terraform-lookup",
+        "command": "terraform-lookup:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "terraform-lookup",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "terraform-lookup:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

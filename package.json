@@ -1,0 +1,48 @@
+{
+  "_from": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball",
+  "_id": "terraform-lookup@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-lbduiI6bt3SlKhkvcUHcEo/Bi61nVf0IiocALHLneJaFu7w87TlgbXAVXu8OlOqT3ALYjZ8Yc3xgZVtrG/h9kQ==",
+  "_location": "/terraform-lookup",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball",
+  "_shasum": "9fa6a58770038372d5e66ec146b0a0706805de5f",
+  "_spec": "https://www.atom.io/api/packages/terraform-lookup/versions/1.0.0/tarball",
+  "_where": "/private/var/folders/wx/0djbxt2d0jj0yr5xyhszk9d40000gn/T/apm-install-dir-119423-19368-fv826k.0huwi",
+  "activationCommands": {
+    "atom-workspace": "terraform-lookup:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/KadenLNelson/terraform-lookup/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "open": "^6.3.0"
+  },
+  "deprecated": false,
+  "description": "Opens documentation for supported Terraform blocks.",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/KadenLNelson/terraform-lookup#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/terraform-lookup",
+  "name": "terraform-lookup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadenLNelson/terraform-lookup.git"
+  },
+  "version": "1.0.0"
+}
